@@ -1,0 +1,19 @@
+2026-09-27 11:05:42.095: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\Zynova.exe.WebView2\EBWebView\Default
+2026-09-27 11:05:42.095: [INFO] Profiles total count: 1
+2026-09-27 11:05:42.095: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\Zynova.exe.WebView2\EBWebView\Default lastActive=null
+2026-09-27 11:05:42.095: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\Zynova.exe.WebView2\EBWebView\Default
+2026-09-27 11:05:42.095: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 11:05:42.095: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 11:05:42.095: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 11:05:42.095: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 11:06:43.983: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 13:43:00.695: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\Zynova.exe.WebView2\EBWebView\Default
+2026-09-27 13:43:00.695: [INFO] Profiles total count: 1
+2026-09-27 13:43:00.695: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\Zynova.exe.WebView2\EBWebView\Default lastActive=2026-09-27T11:25:21.601Z
+2026-09-27 13:43:00.695: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\Zynova.exe.WebView2\EBWebView\Default
+2026-09-27 13:43:00.695: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\Zynova.exe.WebView2\EBWebView\Default lastActive=2026-09-27T11:25:21.601Z
+2026-09-27 13:43:00.695: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 13:43:00.695: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 13:43:00.695: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 13:43:00.695: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 13:50:39.212: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

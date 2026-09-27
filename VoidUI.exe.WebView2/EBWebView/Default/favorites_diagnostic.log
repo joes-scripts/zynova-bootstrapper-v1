@@ -1,0 +1,1559 @@
+2026-09-16 13:52:08.483: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-16 13:52:08.483: [INFO] Profiles total count: 1
+2026-09-16 13:52:08.483: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=null
+2026-09-16 13:52:08.483: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-16 13:52:08.483: [INFO] OnDoneLoading sync enabled: 0
+2026-09-16 13:52:08.483: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-16 13:52:08.483: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-16 13:52:08.483: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 13:53:53.751: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 13:54:22.593: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-16 13:54:22.593: [INFO] Profiles total count: 1
+2026-09-16 13:54:22.593: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-16T13:52:08.599Z
+2026-09-16 13:54:22.593: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-16 13:54:22.593: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-16T13:52:08.599Z
+2026-09-16 13:54:22.593: [INFO] OnDoneLoading sync enabled: 0
+2026-09-16 13:54:22.593: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-16 13:54:22.593: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-16 13:54:22.593: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 13:54:35.007: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:17:40.480: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:17:40.480: [INFO] Profiles total count: 1
+2026-09-20 09:17:40.481: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-16T13:54:22.693Z
+2026-09-20 09:17:40.481: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:17:40.481: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-16T13:54:22.693Z
+2026-09-20 09:17:40.481: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 09:17:40.481: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 09:17:40.481: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 09:17:40.481: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:17:44.497: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:23:29.946: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:23:29.946: [INFO] Profiles total count: 1
+2026-09-20 09:23:29.946: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:17:41.181Z
+2026-09-20 09:23:29.946: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:23:29.946: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:17:41.181Z
+2026-09-20 09:23:29.946: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 09:23:29.946: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 09:23:29.946: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 09:23:29.946: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:23:39.611: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:28:09.531: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:28:09.531: [INFO] Profiles total count: 1
+2026-09-20 09:28:09.531: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:23:30.033Z
+2026-09-20 09:28:09.531: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:28:09.531: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:23:30.033Z
+2026-09-20 09:28:09.531: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 09:28:09.531: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 09:28:09.531: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 09:28:09.531: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:28:42.741: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:28:44.156: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:28:44.156: [INFO] Profiles total count: 1
+2026-09-20 09:28:44.156: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:28:38.138Z
+2026-09-20 09:28:44.156: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:28:44.156: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:28:38.138Z
+2026-09-20 09:28:44.156: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 09:28:44.156: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 09:28:44.156: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 09:28:44.156: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:29:27.182: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:29:28.788: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:29:28.788: [INFO] Profiles total count: 1
+2026-09-20 09:29:28.788: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:28:44.250Z
+2026-09-20 09:29:28.788: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:29:28.788: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:28:44.250Z
+2026-09-20 09:29:28.788: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 09:29:28.788: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 09:29:28.788: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 09:29:28.788: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:29:52.523: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:29:54.007: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:29:54.007: [INFO] Profiles total count: 1
+2026-09-20 09:29:54.007: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:29:28.892Z
+2026-09-20 09:29:54.007: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:29:54.007: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:29:28.892Z
+2026-09-20 09:29:54.007: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 09:29:54.007: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 09:29:54.007: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 09:29:54.007: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:30:17.208: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:30:18.938: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:30:18.938: [INFO] Profiles total count: 1
+2026-09-20 09:30:18.938: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:30:00.308Z
+2026-09-20 09:30:18.938: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:30:18.938: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:30:00.308Z
+2026-09-20 09:30:18.938: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 09:30:18.938: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 09:30:18.938: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 09:30:18.938: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:30:36.301: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:30:37.909: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:30:37.909: [INFO] Profiles total count: 1
+2026-09-20 09:30:37.909: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:30:23.670Z
+2026-09-20 09:30:37.909: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-20 09:30:37.909: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:30:23.670Z
+2026-09-20 09:30:37.909: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 09:30:37.909: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 09:30:37.909: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 09:30:37.909: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 09:31:40.560: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:27:05.942: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:27:05.942: [INFO] Profiles total count: 1
+2026-09-25 18:27:05.943: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:30:37.998Z
+2026-09-25 18:27:05.943: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:27:05.943: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-20T09:30:37.998Z
+2026-09-25 18:27:05.943: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:27:05.943: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:27:05.943: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:27:05.943: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:27:11.968: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:29:17.031: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:29:17.031: [INFO] Profiles total count: 1
+2026-09-25 18:29:17.031: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:27:06.079Z
+2026-09-25 18:29:17.031: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:29:17.031: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:27:06.079Z
+2026-09-25 18:29:17.031: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:29:17.031: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:29:17.031: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:29:17.031: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:29:32.218: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:29:37.493: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:29:37.493: [INFO] Profiles total count: 1
+2026-09-25 18:29:37.493: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:29:17.176Z
+2026-09-25 18:29:37.493: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:29:37.493: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:29:17.176Z
+2026-09-25 18:29:37.493: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:29:37.493: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:29:37.493: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:29:37.493: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:31:02.404: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:31:04.564: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:31:04.564: [INFO] Profiles total count: 1
+2026-09-25 18:31:04.564: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:29:37.621Z
+2026-09-25 18:31:04.564: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:31:04.564: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:29:37.621Z
+2026-09-25 18:31:04.564: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:31:04.564: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:31:04.564: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:31:04.564: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:40:30.311: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:41:47.172: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:41:47.172: [INFO] Profiles total count: 1
+2026-09-25 18:41:47.173: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:32:43.442Z
+2026-09-25 18:41:47.173: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:41:47.173: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:32:43.442Z
+2026-09-25 18:41:47.173: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:41:47.173: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:41:47.173: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:41:47.173: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:42:03.262: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:43:07.521: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:43:07.521: [INFO] Profiles total count: 1
+2026-09-25 18:43:07.521: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:41:47.319Z
+2026-09-25 18:43:07.521: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:43:07.521: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:41:47.319Z
+2026-09-25 18:43:07.521: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:43:07.521: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:43:07.521: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:43:07.521: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:44:10.816: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:45:26.029: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:45:26.029: [INFO] Profiles total count: 1
+2026-09-25 18:45:26.029: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:43:07.655Z
+2026-09-25 18:45:26.029: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:45:26.029: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:43:07.655Z
+2026-09-25 18:45:26.029: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:45:26.029: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:45:26.029: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:45:26.029: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:46:55.135: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:46:56.514: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:46:56.514: [INFO] Profiles total count: 1
+2026-09-25 18:46:56.514: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:45:36.072Z
+2026-09-25 18:46:56.514: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:46:56.514: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:45:36.072Z
+2026-09-25 18:46:56.514: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:46:56.514: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:46:56.514: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:46:56.514: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:47:38.908: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:48:12.955: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:48:12.955: [INFO] Profiles total count: 1
+2026-09-25 18:48:12.955: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:46:56.644Z
+2026-09-25 18:48:12.955: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:48:12.955: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:46:56.644Z
+2026-09-25 18:48:12.955: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:48:12.955: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:48:12.955: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:48:12.956: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:48:59.994: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:49:01.477: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:49:01.477: [INFO] Profiles total count: 1
+2026-09-25 18:49:01.477: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:48:13.089Z
+2026-09-25 18:49:01.477: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:49:01.477: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:48:13.089Z
+2026-09-25 18:49:01.477: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:49:01.477: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:49:01.477: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:49:01.477: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:49:24.424: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:50:03.092: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:50:03.092: [INFO] Profiles total count: 1
+2026-09-25 18:50:03.092: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:49:08.964Z
+2026-09-25 18:50:03.092: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:50:03.092: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:49:08.964Z
+2026-09-25 18:50:03.092: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:50:03.092: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:50:03.092: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:50:03.092: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:50:57.255: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:50:58.881: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:50:58.881: [INFO] Profiles total count: 1
+2026-09-25 18:50:58.881: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:50:03.234Z
+2026-09-25 18:50:58.881: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:50:58.881: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:50:03.234Z
+2026-09-25 18:50:58.881: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:50:58.881: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:50:58.881: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:50:58.881: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:51:42.033: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:51:43.383: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:51:43.383: [INFO] Profiles total count: 1
+2026-09-25 18:51:43.384: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:50:59.038Z
+2026-09-25 18:51:43.384: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:51:43.384: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:50:59.038Z
+2026-09-25 18:51:43.384: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:51:43.384: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:51:43.384: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:51:43.384: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:52:16.761: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:52:18.257: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:52:18.257: [INFO] Profiles total count: 1
+2026-09-25 18:52:18.258: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:52:07.693Z
+2026-09-25 18:52:18.258: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:52:18.258: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:52:07.693Z
+2026-09-25 18:52:18.258: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:52:18.258: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:52:18.258: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:52:18.258: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:52:52.320: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:52:53.763: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:52:53.763: [INFO] Profiles total count: 1
+2026-09-25 18:52:53.764: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:52:18.397Z
+2026-09-25 18:52:53.764: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:52:53.764: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:52:18.397Z
+2026-09-25 18:52:53.764: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:52:53.764: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:52:53.764: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:52:53.764: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:53:33.757: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:53:35.168: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:53:35.168: [INFO] Profiles total count: 1
+2026-09-25 18:53:35.168: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:52:53.881Z
+2026-09-25 18:53:35.168: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:53:35.168: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:52:53.881Z
+2026-09-25 18:53:35.168: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:53:35.168: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:53:35.168: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:53:35.168: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:55:57.766: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:56:42.377: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:56:42.377: [INFO] Profiles total count: 1
+2026-09-25 18:56:42.377: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:55:55.524Z
+2026-09-25 18:56:42.377: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:56:42.377: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:55:55.524Z
+2026-09-25 18:56:42.377: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:56:42.377: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:56:42.377: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:56:42.377: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:58:12.678: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:58:22.444: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:58:22.444: [INFO] Profiles total count: 1
+2026-09-25 18:58:22.444: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:58:09.506Z
+2026-09-25 18:58:22.444: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:58:22.444: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:58:09.506Z
+2026-09-25 18:58:22.444: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:58:22.444: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:58:22.444: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:58:22.444: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:59:19.163: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 18:59:20.427: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:59:20.427: [INFO] Profiles total count: 1
+2026-09-25 18:59:20.427: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:58:22.583Z
+2026-09-25 18:59:20.427: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 18:59:20.427: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T18:58:22.583Z
+2026-09-25 18:59:20.427: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 18:59:20.427: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 18:59:20.427: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 18:59:20.427: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 19:00:40.077: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 19:02:43.472: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 19:02:43.472: [INFO] Profiles total count: 1
+2026-09-25 19:02:43.472: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T19:00:22.920Z
+2026-09-25 19:02:43.472: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 19:02:43.472: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T19:00:22.920Z
+2026-09-25 19:02:43.472: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 19:02:43.472: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 19:02:43.472: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 19:02:43.472: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 19:02:50.658: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 19:06:19.699: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 19:06:19.699: [INFO] Profiles total count: 1
+2026-09-25 19:06:19.699: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T19:02:43.607Z
+2026-09-25 19:06:19.699: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 19:06:19.699: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T19:02:43.607Z
+2026-09-25 19:06:19.699: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 19:06:19.700: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 19:06:19.700: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 19:06:19.700: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 19:07:31.993: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 19:07:35.123: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 19:07:35.123: [INFO] Profiles total count: 1
+2026-09-25 19:07:35.123: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T19:07:28.996Z
+2026-09-25 19:07:35.123: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 19:07:35.123: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T19:07:28.996Z
+2026-09-25 19:07:35.123: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 19:07:35.123: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 19:07:35.123: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 19:07:35.123: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 19:08:25.345: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 19:10:08.217: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 19:10:08.217: [INFO] Profiles total count: 1
+2026-09-25 19:10:08.217: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T19:08:22.187Z
+2026-09-25 19:10:08.217: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-25 19:10:08.217: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T19:08:22.187Z
+2026-09-25 19:10:08.217: [INFO] OnDoneLoading sync enabled: 0
+2026-09-25 19:10:08.217: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 19:10:08.217: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 19:10:08.217: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-25 19:10:30.807: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 10:53:24.165: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 10:53:24.165: [INFO] Profiles total count: 1
+2026-09-26 10:53:24.165: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T19:10:27.061Z
+2026-09-26 10:53:24.165: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 10:53:24.165: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-25T19:10:27.061Z
+2026-09-26 10:53:24.165: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 10:53:24.165: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 10:53:24.165: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 10:53:24.165: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 10:53:28.478: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 10:56:13.653: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 10:56:13.653: [INFO] Profiles total count: 1
+2026-09-26 10:56:13.653: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T10:53:24.259Z
+2026-09-26 10:56:13.653: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 10:56:13.653: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T10:53:24.259Z
+2026-09-26 10:56:13.653: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 10:56:13.653: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 10:56:13.653: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 10:56:13.653: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 10:56:17.146: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 10:56:29.054: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 10:56:29.054: [INFO] Profiles total count: 1
+2026-09-26 10:56:29.054: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T10:56:13.742Z
+2026-09-26 10:56:29.054: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 10:56:29.054: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T10:56:13.742Z
+2026-09-26 10:56:29.054: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 10:56:29.054: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 10:56:29.054: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 10:56:29.054: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 10:56:33.184: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 10:56:58.654: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 10:56:58.654: [INFO] Profiles total count: 1
+2026-09-26 10:56:58.654: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T10:56:29.164Z
+2026-09-26 10:56:58.654: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 10:56:58.654: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T10:56:29.164Z
+2026-09-26 10:56:58.654: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 10:56:58.654: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 10:56:58.654: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 10:56:58.654: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 10:57:23.539: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 10:57:53.432: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 10:57:53.432: [INFO] Profiles total count: 1
+2026-09-26 10:57:53.432: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T10:57:02.766Z
+2026-09-26 10:57:53.432: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 10:57:53.432: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T10:57:02.766Z
+2026-09-26 10:57:53.432: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 10:57:53.432: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 10:57:53.432: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 10:57:53.432: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 10:58:01.714: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 10:58:45.709: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 10:58:45.709: [INFO] Profiles total count: 1
+2026-09-26 10:58:45.709: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T10:57:59.846Z
+2026-09-26 10:58:45.709: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 10:58:45.709: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T10:57:59.846Z
+2026-09-26 10:58:45.709: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 10:58:45.709: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 10:58:45.709: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 10:58:45.709: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 10:58:55.184: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:02:05.156: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:02:05.156: [INFO] Profiles total count: 1
+2026-09-26 11:02:05.156: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T10:58:46.572Z
+2026-09-26 11:02:05.156: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:02:05.156: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T10:58:46.572Z
+2026-09-26 11:02:05.156: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 11:02:05.156: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 11:02:05.156: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 11:02:05.156: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:02:11.592: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:03:33.074: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:03:33.074: [INFO] Profiles total count: 1
+2026-09-26 11:03:33.074: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:02:05.257Z
+2026-09-26 11:03:33.074: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:03:33.074: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:02:05.257Z
+2026-09-26 11:03:33.074: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 11:03:33.074: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 11:03:33.074: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 11:03:33.074: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:04:04.096: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:05:10.331: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:05:10.331: [INFO] Profiles total count: 1
+2026-09-26 11:05:10.332: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:03:54.538Z
+2026-09-26 11:05:10.332: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:05:10.332: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:03:54.538Z
+2026-09-26 11:05:10.332: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 11:05:10.332: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 11:05:10.332: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 11:05:10.332: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:05:18.358: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:05:42.239: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:05:42.239: [INFO] Profiles total count: 1
+2026-09-26 11:05:42.239: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:05:10.413Z
+2026-09-26 11:05:42.239: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:05:42.239: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:05:10.413Z
+2026-09-26 11:05:42.239: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 11:05:42.239: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 11:05:42.239: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 11:05:42.239: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:06:06.051: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:06:17.208: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:06:17.208: [INFO] Profiles total count: 1
+2026-09-26 11:06:17.208: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:05:42.346Z
+2026-09-26 11:06:17.208: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:06:17.208: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:05:42.346Z
+2026-09-26 11:06:17.208: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 11:06:17.208: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 11:06:17.208: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 11:06:17.208: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:06:34.813: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:06:47.070: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:06:47.070: [INFO] Profiles total count: 1
+2026-09-26 11:06:47.071: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:06:31.912Z
+2026-09-26 11:06:47.071: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:06:47.071: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:06:31.912Z
+2026-09-26 11:06:47.071: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 11:06:47.071: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 11:06:47.071: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 11:06:47.071: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:07:20.029: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:07:25.490: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:07:25.490: [INFO] Profiles total count: 1
+2026-09-26 11:07:25.490: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:06:47.214Z
+2026-09-26 11:07:25.490: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:07:25.490: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:06:47.214Z
+2026-09-26 11:07:25.490: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 11:07:25.490: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 11:07:25.490: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 11:07:25.490: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:10:51.994: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:13:13.753: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:13:13.753: [INFO] Profiles total count: 1
+2026-09-26 11:13:13.753: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:10:49.418Z
+2026-09-26 11:13:13.753: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:13:13.753: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:10:49.418Z
+2026-09-26 11:13:13.753: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 11:13:13.753: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 11:13:13.753: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 11:13:13.753: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:14:18.955: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:19:20.147: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:19:20.147: [INFO] Profiles total count: 1
+2026-09-26 11:19:20.147: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:14:15.386Z
+2026-09-26 11:19:20.147: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 11:19:20.147: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:14:15.386Z
+2026-09-26 11:19:20.147: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 11:19:20.147: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 11:19:20.147: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 11:19:20.147: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 11:36:18.100: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 12:17:44.948: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 12:17:44.948: [INFO] Profiles total count: 1
+2026-09-26 12:17:44.949: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:36:09.301Z
+2026-09-26 12:17:44.949: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 12:17:44.949: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T11:36:09.301Z
+2026-09-26 12:17:44.949: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 12:17:44.949: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 12:17:44.949: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 12:17:44.949: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 12:32:37.794: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 15:52:04.977: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 15:52:04.977: [INFO] Profiles total count: 1
+2026-09-26 15:52:04.977: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T12:32:34.007Z
+2026-09-26 15:52:04.977: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 15:52:04.977: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T12:32:34.007Z
+2026-09-26 15:52:04.977: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 15:52:04.977: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 15:52:04.977: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 15:52:04.977: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 15:52:46.148: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 15:54:05.482: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 15:54:05.482: [INFO] Profiles total count: 1
+2026-09-26 15:54:05.482: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T15:52:21.520Z
+2026-09-26 15:54:05.482: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 15:54:05.482: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T15:52:21.520Z
+2026-09-26 15:54:05.482: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 15:54:05.482: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 15:54:05.482: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 15:54:05.482: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 15:56:04.370: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 15:57:29.541: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 15:57:29.541: [INFO] Profiles total count: 1
+2026-09-26 15:57:29.541: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T15:55:58.049Z
+2026-09-26 15:57:29.541: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 15:57:29.541: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T15:55:58.049Z
+2026-09-26 15:57:29.541: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 15:57:29.541: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 15:57:29.541: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 15:57:29.541: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 15:57:34.284: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 15:57:36.973: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 15:57:36.973: [INFO] Profiles total count: 1
+2026-09-26 15:57:36.973: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T15:57:29.683Z
+2026-09-26 15:57:36.973: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 15:57:36.973: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T15:57:29.683Z
+2026-09-26 15:57:36.973: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 15:57:36.973: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 15:57:36.973: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 15:57:36.973: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 15:58:39.495: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 16:13:24.298: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 16:13:24.298: [INFO] Profiles total count: 1
+2026-09-26 16:13:24.298: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T15:58:35.091Z
+2026-09-26 16:13:24.298: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 16:13:24.298: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T15:58:35.091Z
+2026-09-26 16:13:24.298: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 16:13:24.298: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 16:13:24.298: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 16:13:24.298: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 16:14:55.716: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 16:15:21.543: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 16:15:21.543: [INFO] Profiles total count: 1
+2026-09-26 16:15:21.543: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T16:14:46.973Z
+2026-09-26 16:15:21.543: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 16:15:21.543: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T16:14:46.973Z
+2026-09-26 16:15:21.543: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 16:15:21.543: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 16:15:21.543: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 16:15:21.543: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 16:20:34.746: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 16:55:10.872: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 16:55:10.872: [INFO] Profiles total count: 1
+2026-09-26 16:55:10.873: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T16:20:32.980Z
+2026-09-26 16:55:10.873: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 16:55:10.873: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T16:20:32.980Z
+2026-09-26 16:55:10.873: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 16:55:10.873: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 16:55:10.873: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 16:55:10.873: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 16:56:23.198: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 16:58:11.078: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 16:58:11.078: [INFO] Profiles total count: 1
+2026-09-26 16:58:11.078: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T16:55:28.100Z
+2026-09-26 16:58:11.078: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 16:58:11.079: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T16:55:28.100Z
+2026-09-26 16:58:11.079: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 16:58:11.079: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 16:58:11.079: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 16:58:11.079: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 17:03:21.151: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 17:03:22.339: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 17:03:22.339: [INFO] Profiles total count: 1
+2026-09-26 17:03:22.339: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T17:00:46.003Z
+2026-09-26 17:03:22.339: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 17:03:22.339: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T17:00:46.003Z
+2026-09-26 17:03:22.339: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 17:03:22.339: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 17:03:22.339: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 17:03:22.339: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 17:06:48.113: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 17:06:52.922: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 17:06:52.922: [INFO] Profiles total count: 1
+2026-09-26 17:06:52.922: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T17:06:45.031Z
+2026-09-26 17:06:52.922: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 17:06:52.922: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T17:06:45.031Z
+2026-09-26 17:06:52.922: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 17:06:52.922: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 17:06:52.922: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 17:06:52.922: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 17:07:03.302: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 17:07:16.718: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 17:07:16.718: [INFO] Profiles total count: 1
+2026-09-26 17:07:16.718: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T17:06:53.066Z
+2026-09-26 17:07:16.718: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 17:07:16.718: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T17:06:53.066Z
+2026-09-26 17:07:16.718: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 17:07:16.718: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 17:07:16.718: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 17:07:16.718: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 17:07:26.132: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 17:07:32.731: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 17:07:32.731: [INFO] Profiles total count: 1
+2026-09-26 17:07:32.731: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T17:07:16.862Z
+2026-09-26 17:07:32.731: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 17:07:32.731: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T17:07:16.862Z
+2026-09-26 17:07:32.731: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 17:07:32.731: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 17:07:32.731: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 17:07:32.731: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 17:07:38.290: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 17:07:56.231: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 17:07:56.231: [INFO] Profiles total count: 1
+2026-09-26 17:07:56.231: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T17:07:32.871Z
+2026-09-26 17:07:56.231: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 17:07:56.231: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T17:07:32.871Z
+2026-09-26 17:07:56.231: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 17:07:56.231: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 17:07:56.231: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 17:07:56.231: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 17:23:05.972: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 18:49:07.476: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 18:49:07.476: [INFO] Profiles total count: 1
+2026-09-26 18:49:07.476: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T17:22:59.420Z
+2026-09-26 18:49:07.476: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 18:49:07.476: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T17:22:59.420Z
+2026-09-26 18:49:07.476: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 18:49:07.476: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 18:49:07.476: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 18:49:07.476: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:04:17.520: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:06:13.481: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:06:13.481: [INFO] Profiles total count: 1
+2026-09-26 19:06:13.482: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:04:16.318Z
+2026-09-26 19:06:13.482: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:06:13.482: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:04:16.318Z
+2026-09-26 19:06:13.482: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:06:13.482: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:06:13.482: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:06:13.482: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:10:12.495: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:12:17.139: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:12:17.139: [INFO] Profiles total count: 1
+2026-09-26 19:12:17.139: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:10:11.322Z
+2026-09-26 19:12:17.139: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:12:17.139: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:10:11.322Z
+2026-09-26 19:12:17.139: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:12:17.139: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:12:17.139: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:12:17.139: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:13:02.158: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:16:31.371: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:16:31.371: [INFO] Profiles total count: 1
+2026-09-26 19:16:31.371: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:12:19.570Z
+2026-09-26 19:16:31.371: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:16:31.371: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:12:19.570Z
+2026-09-26 19:16:31.371: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:16:31.371: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:16:31.371: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:16:31.371: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:16:41.303: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:21:12.664: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:21:12.664: [INFO] Profiles total count: 1
+2026-09-26 19:21:12.665: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:16:39.466Z
+2026-09-26 19:21:12.665: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:21:12.665: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:16:39.466Z
+2026-09-26 19:21:12.665: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:21:12.665: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:21:12.665: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:21:12.665: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:23:23.711: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:24:42.008: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:24:42.008: [INFO] Profiles total count: 1
+2026-09-26 19:24:42.008: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:23:12.589Z
+2026-09-26 19:24:42.008: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:24:42.008: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:23:12.589Z
+2026-09-26 19:24:42.008: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:24:42.008: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:24:42.008: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:24:42.008: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:24:54.553: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:24:59.700: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:24:59.700: [INFO] Profiles total count: 1
+2026-09-26 19:24:59.701: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:24:42.162Z
+2026-09-26 19:24:59.701: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:24:59.701: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:24:42.162Z
+2026-09-26 19:24:59.701: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:24:59.701: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:24:59.701: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:24:59.701: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:25:05.276: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:27:58.061: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:27:58.061: [INFO] Profiles total count: 1
+2026-09-26 19:27:58.062: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:25:00.974Z
+2026-09-26 19:27:58.062: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:27:58.062: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:25:00.974Z
+2026-09-26 19:27:58.062: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:27:58.062: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:27:58.062: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:27:58.062: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:28:05.175: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:29:55.859: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:29:55.859: [INFO] Profiles total count: 1
+2026-09-26 19:29:55.859: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:28:02.059Z
+2026-09-26 19:29:55.859: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:29:55.859: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:28:02.059Z
+2026-09-26 19:29:55.859: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:29:55.859: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:29:55.859: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:29:55.859: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:31:18.918: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:32:57.810: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:32:57.810: [INFO] Profiles total count: 1
+2026-09-26 19:32:57.811: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:31:16.981Z
+2026-09-26 19:32:57.811: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:32:57.811: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:31:16.981Z
+2026-09-26 19:32:57.811: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:32:57.811: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:32:57.811: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:32:57.811: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:35:51.312: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:35:53.862: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:35:53.862: [INFO] Profiles total count: 1
+2026-09-26 19:35:53.863: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:33:06.309Z
+2026-09-26 19:35:53.863: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:35:53.863: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:33:06.309Z
+2026-09-26 19:35:53.863: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:35:53.863: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:35:53.863: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:35:53.863: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:36:34.085: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:37:05.972: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:37:05.972: [INFO] Profiles total count: 1
+2026-09-26 19:37:05.972: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:36:32.007Z
+2026-09-26 19:37:05.972: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:37:05.972: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:36:32.007Z
+2026-09-26 19:37:05.972: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:37:05.972: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:37:05.972: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:37:05.972: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:37:30.234: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:37:46.478: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:37:46.478: [INFO] Profiles total count: 1
+2026-09-26 19:37:46.478: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:37:16.957Z
+2026-09-26 19:37:46.478: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:37:46.478: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:37:16.957Z
+2026-09-26 19:37:46.478: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:37:46.478: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:37:46.478: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:37:46.478: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:38:00.528: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:38:03.097: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:38:03.097: [INFO] Profiles total count: 1
+2026-09-26 19:38:03.097: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:37:46.635Z
+2026-09-26 19:38:03.097: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:38:03.097: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:37:46.635Z
+2026-09-26 19:38:03.097: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:38:03.097: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:38:03.097: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:38:03.097: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:39:56.046: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:41:05.958: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:41:05.958: [INFO] Profiles total count: 1
+2026-09-26 19:41:05.958: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:38:03.246Z
+2026-09-26 19:41:05.958: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:41:05.958: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:38:03.246Z
+2026-09-26 19:41:05.958: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:41:05.958: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:41:05.958: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:41:05.958: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:44:59.524: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:45:10.719: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:45:10.719: [INFO] Profiles total count: 1
+2026-09-26 19:45:10.719: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:44:58.346Z
+2026-09-26 19:45:10.719: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:45:10.719: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:44:58.346Z
+2026-09-26 19:45:10.719: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:45:10.719: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:45:10.719: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:45:10.719: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:45:20.300: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:47:33.426: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:47:33.426: [INFO] Profiles total count: 1
+2026-09-26 19:47:33.426: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:45:18.815Z
+2026-09-26 19:47:33.426: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 19:47:33.426: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:45:18.815Z
+2026-09-26 19:47:33.426: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 19:47:33.426: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 19:47:33.426: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 19:47:33.426: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 19:55:34.660: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 20:00:58.971: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 20:00:58.971: [INFO] Profiles total count: 1
+2026-09-26 20:00:58.971: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:54:13.752Z
+2026-09-26 20:00:58.971: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 20:00:58.971: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T19:54:13.752Z
+2026-09-26 20:00:58.971: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 20:00:58.971: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 20:00:58.971: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 20:00:58.971: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 20:06:35.515: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 20:07:12.786: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 20:07:12.786: [INFO] Profiles total count: 1
+2026-09-26 20:07:12.786: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T20:06:31.943Z
+2026-09-26 20:07:12.786: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 20:07:12.787: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T20:06:31.943Z
+2026-09-26 20:07:12.787: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 20:07:12.787: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 20:07:12.787: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 20:07:12.787: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 20:14:09.195: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 20:14:11.594: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 20:14:11.594: [INFO] Profiles total count: 1
+2026-09-26 20:14:11.594: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T20:13:50.448Z
+2026-09-26 20:14:11.594: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 20:14:11.594: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T20:13:50.448Z
+2026-09-26 20:14:11.594: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 20:14:11.594: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 20:14:11.594: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 20:14:11.594: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 20:14:44.379: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 20:16:17.906: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 20:16:17.906: [INFO] Profiles total count: 1
+2026-09-26 20:16:17.906: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T20:14:37.042Z
+2026-09-26 20:16:17.906: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-26 20:16:17.906: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T20:14:37.042Z
+2026-09-26 20:16:17.906: [INFO] OnDoneLoading sync enabled: 0
+2026-09-26 20:16:17.906: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-26 20:16:17.906: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-26 20:16:17.906: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-26 20:16:32.667: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 06:57:23.976: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 06:57:23.976: [INFO] Profiles total count: 1
+2026-09-27 06:57:23.976: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T20:16:31.437Z
+2026-09-27 06:57:23.976: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 06:57:23.976: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-26T20:16:31.437Z
+2026-09-27 06:57:23.976: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 06:57:23.976: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 06:57:23.976: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 06:57:23.976: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 06:57:28.725: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 06:57:33.450: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 06:57:33.450: [INFO] Profiles total count: 1
+2026-09-27 06:57:33.450: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T06:57:24.067Z
+2026-09-27 06:57:33.450: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 06:57:33.450: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T06:57:24.067Z
+2026-09-27 06:57:33.450: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 06:57:33.450: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 06:57:33.450: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 06:57:33.450: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 06:57:37.776: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 06:57:44.762: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 06:57:44.762: [INFO] Profiles total count: 1
+2026-09-27 06:57:44.762: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T06:57:33.540Z
+2026-09-27 06:57:44.762: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 06:57:44.762: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T06:57:33.540Z
+2026-09-27 06:57:44.762: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 06:57:44.762: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 06:57:44.762: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 06:57:44.762: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:00:27.455: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:02:32.727: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:02:32.727: [INFO] Profiles total count: 1
+2026-09-27 07:02:32.727: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:00:24.156Z
+2026-09-27 07:02:32.727: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:02:32.727: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:00:24.156Z
+2026-09-27 07:02:32.727: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:02:32.727: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:02:32.727: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:02:32.727: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:11:38.636: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:11:43.908: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:11:43.908: [INFO] Profiles total count: 1
+2026-09-27 07:11:43.908: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:11:37.814Z
+2026-09-27 07:11:43.908: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:11:43.908: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:11:37.814Z
+2026-09-27 07:11:43.908: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:11:43.908: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:11:43.908: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:11:43.908: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:23:40.880: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:23:49.516: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:23:49.516: [INFO] Profiles total count: 1
+2026-09-27 07:23:49.516: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:11:54.110Z
+2026-09-27 07:23:49.516: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:23:49.516: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:11:54.110Z
+2026-09-27 07:23:49.516: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:23:49.516: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:23:49.516: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:23:49.516: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:24:56.294: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:24:59.107: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:24:59.107: [INFO] Profiles total count: 1
+2026-09-27 07:24:59.107: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:24:55.852Z
+2026-09-27 07:24:59.107: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:24:59.107: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:24:55.852Z
+2026-09-27 07:24:59.107: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:24:59.107: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:24:59.107: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:24:59.107: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:25:31.963: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:25:46.149: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:25:46.149: [INFO] Profiles total count: 1
+2026-09-27 07:25:46.149: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:25:29.759Z
+2026-09-27 07:25:46.149: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:25:46.149: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:25:29.759Z
+2026-09-27 07:25:46.149: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:25:46.149: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:25:46.149: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:25:46.149: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:26:40.913: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:28:46.602: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:28:46.602: [INFO] Profiles total count: 1
+2026-09-27 07:28:46.602: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:26:13.200Z
+2026-09-27 07:28:46.602: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:28:46.603: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:26:13.200Z
+2026-09-27 07:28:46.603: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:28:46.603: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:28:46.603: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:28:46.603: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:30:10.998: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:36:37.766: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:36:37.766: [INFO] Profiles total count: 1
+2026-09-27 07:36:37.766: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:30:09.284Z
+2026-09-27 07:36:37.766: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:36:37.766: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:30:09.284Z
+2026-09-27 07:36:37.766: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:36:37.766: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:36:37.766: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:36:37.766: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:39:39.517: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:39:42.003: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:39:42.003: [INFO] Profiles total count: 1
+2026-09-27 07:39:42.003: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:39:19.668Z
+2026-09-27 07:39:42.003: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:39:42.003: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:39:19.668Z
+2026-09-27 07:39:42.003: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:39:42.003: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:39:42.003: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:39:42.003: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:39:53.869: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:41:24.892: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:41:24.892: [INFO] Profiles total count: 1
+2026-09-27 07:41:24.892: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:39:42.080Z
+2026-09-27 07:41:24.892: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:41:24.892: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:39:42.080Z
+2026-09-27 07:41:24.892: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:41:24.892: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:41:24.892: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:41:24.892: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:42:38.268: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:44:05.270: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:44:05.270: [INFO] Profiles total count: 1
+2026-09-27 07:44:05.270: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:42:24.098Z
+2026-09-27 07:44:05.270: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:44:05.270: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:42:24.098Z
+2026-09-27 07:44:05.270: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:44:05.270: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:44:05.270: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:44:05.270: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:44:57.881: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:45:00.726: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:45:00.726: [INFO] Profiles total count: 1
+2026-09-27 07:45:00.726: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:44:34.225Z
+2026-09-27 07:45:00.726: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:45:00.726: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:44:34.225Z
+2026-09-27 07:45:00.726: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:45:00.726: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:45:00.726: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:45:00.726: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:45:23.202: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:45:46.434: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:45:46.434: [INFO] Profiles total count: 1
+2026-09-27 07:45:46.434: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:45:06.259Z
+2026-09-27 07:45:46.434: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:45:46.434: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:45:06.259Z
+2026-09-27 07:45:46.434: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:45:46.434: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:45:46.434: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:45:46.434: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:47:44.456: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:50:41.622: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:50:41.622: [INFO] Profiles total count: 1
+2026-09-27 07:50:41.622: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:47:44.364Z
+2026-09-27 07:50:41.622: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:50:41.622: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:47:44.364Z
+2026-09-27 07:50:41.622: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:50:41.622: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:50:41.622: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:50:41.622: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:53:23.362: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:53:25.803: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:53:25.803: [INFO] Profiles total count: 1
+2026-09-27 07:53:25.803: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:51:08.393Z
+2026-09-27 07:53:25.803: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:53:25.803: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:51:08.393Z
+2026-09-27 07:53:25.803: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:53:25.803: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:53:25.803: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:53:25.803: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:53:49.964: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:54:41.240: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:54:41.240: [INFO] Profiles total count: 1
+2026-09-27 07:54:41.240: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:53:37.262Z
+2026-09-27 07:54:41.240: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:54:41.240: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:53:37.262Z
+2026-09-27 07:54:41.240: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:54:41.240: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:54:41.240: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:54:41.240: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:56:48.779: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 07:59:54.888: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:59:54.888: [INFO] Profiles total count: 1
+2026-09-27 07:59:54.888: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:54:51.894Z
+2026-09-27 07:59:54.888: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 07:59:54.888: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T07:54:51.894Z
+2026-09-27 07:59:54.888: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 07:59:54.888: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 07:59:54.888: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 07:59:54.888: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:01:09.031: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:01:13.777: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:01:13.777: [INFO] Profiles total count: 1
+2026-09-27 08:01:13.777: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:01:07.083Z
+2026-09-27 08:01:13.777: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:01:13.777: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:01:07.083Z
+2026-09-27 08:01:13.777: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:01:13.777: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:01:13.778: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:01:13.778: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:01:38.946: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:02:48.306: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:02:48.306: [INFO] Profiles total count: 1
+2026-09-27 08:02:48.306: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:01:23.094Z
+2026-09-27 08:02:48.306: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:02:48.306: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:01:23.094Z
+2026-09-27 08:02:48.306: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:02:48.306: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:02:48.306: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:02:48.306: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:03:33.788: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:05:14.635: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:05:14.635: [INFO] Profiles total count: 1
+2026-09-27 08:05:14.635: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:03:22.870Z
+2026-09-27 08:05:14.635: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:05:14.635: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:03:22.870Z
+2026-09-27 08:05:14.635: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:05:14.635: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:05:14.635: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:05:14.635: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:08:46.309: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:08:48.386: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:08:48.386: [INFO] Profiles total count: 1
+2026-09-27 08:08:48.386: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:05:23.727Z
+2026-09-27 08:08:48.386: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:08:48.386: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:05:23.727Z
+2026-09-27 08:08:48.386: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:08:48.386: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:08:48.386: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:08:48.386: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:09:33.737: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:09:37.529: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:09:37.529: [INFO] Profiles total count: 1
+2026-09-27 08:09:37.529: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:09:24.373Z
+2026-09-27 08:09:37.529: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:09:37.529: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:09:24.373Z
+2026-09-27 08:09:37.529: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:09:37.529: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:09:37.529: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:09:37.529: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:09:49.975: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:10:33.916: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:10:33.916: [INFO] Profiles total count: 1
+2026-09-27 08:10:33.916: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:09:46.122Z
+2026-09-27 08:10:33.916: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:10:33.916: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:09:46.122Z
+2026-09-27 08:10:33.916: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:10:33.916: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:10:33.916: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:10:33.916: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:10:52.519: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:10:53.495: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:10:53.495: [INFO] Profiles total count: 1
+2026-09-27 08:10:53.495: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:10:50.470Z
+2026-09-27 08:10:53.495: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:10:53.495: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:10:50.470Z
+2026-09-27 08:10:53.495: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:10:53.495: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:10:53.495: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:10:53.495: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:11:43.236: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:11:44.149: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:11:44.149: [INFO] Profiles total count: 1
+2026-09-27 08:11:44.149: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:10:53.609Z
+2026-09-27 08:11:44.149: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:11:44.149: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:10:53.609Z
+2026-09-27 08:11:44.149: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:11:44.149: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:11:44.149: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:11:44.149: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:11:54.334: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:11:56.368: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:11:56.368: [INFO] Profiles total count: 1
+2026-09-27 08:11:56.368: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:11:44.280Z
+2026-09-27 08:11:56.368: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:11:56.368: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:11:44.280Z
+2026-09-27 08:11:56.368: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:11:56.368: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:11:56.368: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:11:56.368: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:13:01.226: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:16:45.780: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:16:45.780: [INFO] Profiles total count: 1
+2026-09-27 08:16:45.780: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:13:00.415Z
+2026-09-27 08:16:45.780: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:16:45.780: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:13:00.415Z
+2026-09-27 08:16:45.780: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:16:45.780: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:16:45.780: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:16:45.780: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:18:00.379: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:18:04.795: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:18:04.795: [INFO] Profiles total count: 1
+2026-09-27 08:18:04.795: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:17:54.995Z
+2026-09-27 08:18:04.796: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:18:04.796: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:17:54.995Z
+2026-09-27 08:18:04.796: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:18:04.796: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:18:04.796: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:18:04.796: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:19:21.969: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:19:23.795: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:19:23.795: [INFO] Profiles total count: 1
+2026-09-27 08:19:23.795: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:18:04.928Z
+2026-09-27 08:19:23.795: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:19:23.795: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:18:04.928Z
+2026-09-27 08:19:23.795: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:19:23.795: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:19:23.795: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:19:23.795: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:23:56.665: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:24:16.392: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:24:16.392: [INFO] Profiles total count: 1
+2026-09-27 08:24:16.392: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:23:54.411Z
+2026-09-27 08:24:16.392: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:24:16.392: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:23:54.411Z
+2026-09-27 08:24:16.392: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:24:16.392: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:24:16.392: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:24:16.392: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:25:20.857: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:25:23.566: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:25:23.566: [INFO] Profiles total count: 1
+2026-09-27 08:25:23.566: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:25:19.381Z
+2026-09-27 08:25:23.566: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:25:23.566: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:25:19.381Z
+2026-09-27 08:25:23.566: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:25:23.566: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:25:23.566: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:25:23.566: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:25:55.921: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:26:09.288: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:26:09.288: [INFO] Profiles total count: 1
+2026-09-27 08:26:09.288: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:25:55.472Z
+2026-09-27 08:26:09.288: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:26:09.288: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:25:55.472Z
+2026-09-27 08:26:09.288: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:26:09.288: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:26:09.288: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:26:09.288: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:27:55.486: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:37:17.390: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:37:17.390: [INFO] Profiles total count: 1
+2026-09-27 08:37:17.390: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:27:48.421Z
+2026-09-27 08:37:17.390: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:37:17.390: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:27:48.421Z
+2026-09-27 08:37:17.390: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:37:17.390: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:37:17.390: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:37:17.390: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:40:30.359: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:40:31.475: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:40:31.475: [INFO] Profiles total count: 1
+2026-09-27 08:40:31.475: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:38:58.957Z
+2026-09-27 08:40:31.475: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:40:31.475: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:38:58.957Z
+2026-09-27 08:40:31.475: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:40:31.475: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:40:31.475: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:40:31.475: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:41:14.305: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:41:16.518: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:41:16.518: [INFO] Profiles total count: 1
+2026-09-27 08:41:16.519: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:41:12.971Z
+2026-09-27 08:41:16.519: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:41:16.519: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:41:12.971Z
+2026-09-27 08:41:16.519: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:41:16.519: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:41:16.519: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:41:16.519: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:41:25.891: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:42:42.059: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:42:42.059: [INFO] Profiles total count: 1
+2026-09-27 08:42:42.059: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:41:16.631Z
+2026-09-27 08:42:42.059: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:42:42.059: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:41:16.631Z
+2026-09-27 08:42:42.059: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:42:42.059: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:42:42.059: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:42:42.059: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:42:48.788: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:43:04.168: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:43:04.168: [INFO] Profiles total count: 1
+2026-09-27 08:43:04.168: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:42:42.187Z
+2026-09-27 08:43:04.168: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:43:04.169: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:42:42.187Z
+2026-09-27 08:43:04.169: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:43:04.169: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:43:04.169: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:43:04.169: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:43:12.890: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:43:18.682: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:43:18.682: [INFO] Profiles total count: 1
+2026-09-27 08:43:18.682: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:43:04.259Z
+2026-09-27 08:43:18.682: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:43:18.682: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:43:04.259Z
+2026-09-27 08:43:18.682: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:43:18.682: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:43:18.682: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:43:18.682: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:43:45.278: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:43:48.539: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:43:48.539: [INFO] Profiles total count: 1
+2026-09-27 08:43:48.539: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:43:42.314Z
+2026-09-27 08:43:48.539: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:43:48.539: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:43:42.314Z
+2026-09-27 08:43:48.539: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:43:48.539: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:43:48.539: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:43:48.539: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:49:35.389: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:50:13.207: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:50:13.207: [INFO] Profiles total count: 1
+2026-09-27 08:50:13.207: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:49:29.178Z
+2026-09-27 08:50:13.207: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:50:13.207: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:49:29.178Z
+2026-09-27 08:50:13.207: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:50:13.207: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:50:13.207: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:50:13.207: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:50:56.185: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:57:29.321: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:57:29.321: [INFO] Profiles total count: 1
+2026-09-27 08:57:29.321: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:50:25.877Z
+2026-09-27 08:57:29.321: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 08:57:29.321: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:50:25.877Z
+2026-09-27 08:57:29.321: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 08:57:29.321: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 08:57:29.321: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 08:57:29.321: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 08:58:11.302: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:00:31.781: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:00:31.781: [INFO] Profiles total count: 1
+2026-09-27 09:00:31.782: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:58:03.291Z
+2026-09-27 09:00:31.782: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:00:31.782: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T08:58:03.291Z
+2026-09-27 09:00:31.782: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 09:00:31.782: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 09:00:31.782: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 09:00:31.782: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:00:44.332: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:05:38.609: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:05:38.609: [INFO] Profiles total count: 1
+2026-09-27 09:05:38.609: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:00:32.505Z
+2026-09-27 09:05:38.609: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:05:38.609: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:00:32.505Z
+2026-09-27 09:05:38.609: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 09:05:38.609: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 09:05:38.609: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 09:05:38.609: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:06:16.991: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:07:48.867: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:07:48.867: [INFO] Profiles total count: 1
+2026-09-27 09:07:48.867: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:05:39.314Z
+2026-09-27 09:07:48.867: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:07:48.867: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:05:39.314Z
+2026-09-27 09:07:48.867: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 09:07:48.867: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 09:07:48.867: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 09:07:48.867: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:08:06.817: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:14:35.230: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:14:35.230: [INFO] Profiles total count: 1
+2026-09-27 09:14:35.230: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:07:52.752Z
+2026-09-27 09:14:35.230: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:14:35.230: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:07:52.752Z
+2026-09-27 09:14:35.230: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 09:14:35.230: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 09:14:35.230: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 09:14:35.230: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:14:51.332: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:19:23.721: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:19:23.721: [INFO] Profiles total count: 1
+2026-09-27 09:19:23.721: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:14:49.772Z
+2026-09-27 09:19:23.721: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:19:23.721: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:14:49.772Z
+2026-09-27 09:19:23.721: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 09:19:23.721: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 09:19:23.721: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 09:19:23.721: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:20:21.323: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:37:43.360: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:37:43.360: [INFO] Profiles total count: 1
+2026-09-27 09:37:43.360: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:20:03.310Z
+2026-09-27 09:37:43.360: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:37:43.360: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:20:03.310Z
+2026-09-27 09:37:43.360: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 09:37:43.360: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 09:37:43.360: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 09:37:43.360: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:45:49.048: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:49:01.749: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:49:01.749: [INFO] Profiles total count: 1
+2026-09-27 09:49:01.749: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:37:59.694Z
+2026-09-27 09:49:01.749: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:49:01.750: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:37:59.694Z
+2026-09-27 09:49:01.750: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 09:49:01.750: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 09:49:01.750: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 09:49:01.750: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:49:13.502: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:49:18.003: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:49:18.003: [INFO] Profiles total count: 1
+2026-09-27 09:49:18.003: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:49:01.852Z
+2026-09-27 09:49:18.003: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:49:18.003: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:49:01.852Z
+2026-09-27 09:49:18.003: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 09:49:18.003: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 09:49:18.003: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 09:49:18.003: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:49:52.157: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:50:24.215: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:50:24.215: [INFO] Profiles total count: 1
+2026-09-27 09:50:24.216: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:49:51.252Z
+2026-09-27 09:50:24.216: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:50:24.216: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:49:51.252Z
+2026-09-27 09:50:24.216: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 09:50:24.216: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 09:50:24.216: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 09:50:24.216: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:54:22.012: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 09:55:51.230: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:55:51.230: [INFO] Profiles total count: 1
+2026-09-27 09:55:51.230: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:54:00.594Z
+2026-09-27 09:55:51.230: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 09:55:51.230: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:54:00.594Z
+2026-09-27 09:55:51.230: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 09:55:51.230: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 09:55:51.230: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 09:55:51.230: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:00:14.861: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:00:16.272: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:00:16.272: [INFO] Profiles total count: 1
+2026-09-27 10:00:16.272: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:58:12.775Z
+2026-09-27 10:00:16.272: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:00:16.272: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T09:58:12.775Z
+2026-09-27 10:00:16.272: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:00:16.272: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:00:16.272: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:00:16.272: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:00:28.049: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:07:22.416: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:07:22.416: [INFO] Profiles total count: 1
+2026-09-27 10:07:22.416: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:00:16.398Z
+2026-09-27 10:07:22.416: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:07:22.416: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:00:16.398Z
+2026-09-27 10:07:22.416: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:07:22.416: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:07:22.416: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:07:22.416: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:08:06.422: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:13:52.949: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:13:52.949: [INFO] Profiles total count: 1
+2026-09-27 10:13:52.949: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:07:22.544Z
+2026-09-27 10:13:52.949: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:13:52.949: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:07:22.544Z
+2026-09-27 10:13:52.949: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:13:52.949: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:13:52.949: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:13:52.949: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:14:54.914: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:14:55.993: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:14:55.993: [INFO] Profiles total count: 1
+2026-09-27 10:14:55.993: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:14:51.980Z
+2026-09-27 10:14:55.993: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:14:55.993: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:14:51.980Z
+2026-09-27 10:14:55.993: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:14:55.993: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:14:55.993: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:14:55.993: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:15:22.407: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:21:39.914: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:21:39.914: [INFO] Profiles total count: 1
+2026-09-27 10:21:39.914: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:15:21.769Z
+2026-09-27 10:21:39.914: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:21:39.914: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:15:21.769Z
+2026-09-27 10:21:39.914: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:21:39.914: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:21:39.914: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:21:39.914: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:23:57.507: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:23:58.679: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:23:58.679: [INFO] Profiles total count: 1
+2026-09-27 10:23:58.680: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:21:57.496Z
+2026-09-27 10:23:58.680: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:23:58.680: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:21:57.496Z
+2026-09-27 10:23:58.680: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:23:58.680: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:23:58.680: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:23:58.680: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:24:09.557: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:24:35.806: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:24:35.806: [INFO] Profiles total count: 1
+2026-09-27 10:24:35.806: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:23:58.808Z
+2026-09-27 10:24:35.806: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:24:35.806: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:23:58.808Z
+2026-09-27 10:24:35.806: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:24:35.806: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:24:35.806: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:24:35.806: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:25:46.058: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:28:30.569: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:28:30.569: [INFO] Profiles total count: 1
+2026-09-27 10:28:30.569: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:24:35.915Z
+2026-09-27 10:28:30.569: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:28:30.569: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:24:35.915Z
+2026-09-27 10:28:30.569: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:28:30.569: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:28:30.569: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:28:30.569: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:28:51.689: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:29:02.050: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:29:02.050: [INFO] Profiles total count: 1
+2026-09-27 10:29:02.050: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:28:35.727Z
+2026-09-27 10:29:02.050: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:29:02.050: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:28:35.727Z
+2026-09-27 10:29:02.050: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:29:02.050: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:29:02.050: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:29:02.050: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:29:55.121: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:30:19.401: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:30:19.401: [INFO] Profiles total count: 1
+2026-09-27 10:30:19.401: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:29:51.554Z
+2026-09-27 10:30:19.401: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:30:19.401: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:29:51.554Z
+2026-09-27 10:30:19.401: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:30:19.401: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:30:19.401: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:30:19.401: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:30:40.776: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:32:02.290: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:32:02.290: [INFO] Profiles total count: 1
+2026-09-27 10:32:02.290: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:30:31.247Z
+2026-09-27 10:32:02.290: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:32:02.290: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:30:31.247Z
+2026-09-27 10:32:02.290: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:32:02.290: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:32:02.290: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:32:02.290: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:37:40.870: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:37:46.871: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:37:46.871: [INFO] Profiles total count: 1
+2026-09-27 10:37:46.871: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:37:42.457Z
+2026-09-27 10:37:46.871: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:37:46.871: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:37:42.457Z
+2026-09-27 10:37:46.871: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:37:46.871: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:37:46.871: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:37:46.871: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:43:08.817: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:43:09.718: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:43:09.718: [INFO] Profiles total count: 1
+2026-09-27 10:43:09.718: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:38:12.570Z
+2026-09-27 10:43:09.718: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:43:09.718: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:38:12.570Z
+2026-09-27 10:43:09.718: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:43:09.718: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:43:09.718: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:43:09.718: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:43:56.401: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:44:43.685: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:44:43.685: [INFO] Profiles total count: 1
+2026-09-27 10:44:43.685: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:43:50.310Z
+2026-09-27 10:44:43.685: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:44:43.685: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:43:50.310Z
+2026-09-27 10:44:43.685: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:44:43.685: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:44:43.685: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:44:43.685: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:58:48.915: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 10:58:52.911: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:58:52.911: [INFO] Profiles total count: 1
+2026-09-27 10:58:52.911: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:46:41.952Z
+2026-09-27 10:58:52.911: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 10:58:52.911: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:46:41.952Z
+2026-09-27 10:58:52.911: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 10:58:52.911: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 10:58:52.911: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 10:58:52.911: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 11:01:29.077: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 11:01:30.763: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 11:01:30.763: [INFO] Profiles total count: 1
+2026-09-27 11:01:30.764: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:58:53.043Z
+2026-09-27 11:01:30.764: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 11:01:30.764: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T10:58:53.043Z
+2026-09-27 11:01:30.764: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 11:01:30.764: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 11:01:30.764: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 11:01:30.764: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 11:05:05.836: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 13:43:07.313: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 13:43:07.313: [INFO] Profiles total count: 1
+2026-09-27 13:43:07.313: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T11:05:24.422Z
+2026-09-27 13:43:07.313: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 13:43:07.313: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T11:05:24.422Z
+2026-09-27 13:43:07.313: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 13:43:07.313: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 13:43:07.313: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 13:43:07.313: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 13:50:37.416: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 13:53:24.535: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 13:53:24.535: [INFO] Profiles total count: 1
+2026-09-27 13:53:24.535: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T13:50:46.472Z
+2026-09-27 13:53:24.535: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 13:53:24.535: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T13:50:46.472Z
+2026-09-27 13:53:24.535: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 13:53:24.535: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 13:53:24.535: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 13:53:24.535: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 13:53:32.721: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 13:56:49.939: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 13:56:49.939: [INFO] Profiles total count: 1
+2026-09-27 13:56:49.939: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T13:53:30.072Z
+2026-09-27 13:56:49.939: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 13:56:49.939: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T13:53:30.072Z
+2026-09-27 13:56:49.939: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 13:56:49.939: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 13:56:49.940: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 13:56:49.940: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 13:58:40.854: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 13:58:43.475: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 13:58:43.475: [INFO] Profiles total count: 1
+2026-09-27 13:58:43.475: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T13:56:58.932Z
+2026-09-27 13:58:43.475: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default
+2026-09-27 13:58:43.475: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\VoidUI\VoidUI\bin\x64\Debug\net10.0-windows\VoidUI.exe.WebView2\EBWebView\Default lastActive=2026-09-27T13:56:58.932Z
+2026-09-27 13:58:43.475: [INFO] OnDoneLoading sync enabled: 0
+2026-09-27 13:58:43.475: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-27 13:58:43.475: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-27 13:58:43.475: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-27 13:58:48.383: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
